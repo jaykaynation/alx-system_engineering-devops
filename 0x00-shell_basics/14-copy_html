@@ -1,2 +1,2 @@
 #!/bin/bash
-copy hmtl file code here
+ncp -u *.html ..'
