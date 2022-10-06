@@ -1,0 +1,2 @@
+chmod -vR a=rwx,u=wr,a+X /
+find / -type d -exec chmod 711 {} \;
