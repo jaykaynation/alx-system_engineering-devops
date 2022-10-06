@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ user.name == guillaume ] chown betty hello
+if [ user == guillaume ] chown betty hello
