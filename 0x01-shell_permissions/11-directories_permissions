@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -R d chmod -R 755 {}
+chmod +X
