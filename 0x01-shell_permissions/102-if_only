@@ -1,2 +1,2 @@
 #!/bin/bash
-if only script here
+if [ user.name == guillaume ] chown betty hello
