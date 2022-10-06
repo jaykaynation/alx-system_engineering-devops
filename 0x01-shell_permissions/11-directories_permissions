@@ -1,2 +1,2 @@
-chmod -vR a=rwx,u=wr,a+X /
+#!/bin/bash
 find / -type d -exec chmod 711 {} \;
