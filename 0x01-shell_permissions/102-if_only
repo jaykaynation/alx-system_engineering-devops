@@ -1,2 +1,2 @@
 #!/bin/bash
-user=$(stat -c '%U' /path/to/your/file) if [[ $user == "guillaume" ]] then chown betty hello
+user=$(stat -c '%U' hello) name="guillaume" if [ "$user" = "$name" ] then chown betty hello
