@@ -1,1 +1,1 @@
-this directory contain files for the shell redirections project
+This directory contains files for the 0x02-shell_redirections project
