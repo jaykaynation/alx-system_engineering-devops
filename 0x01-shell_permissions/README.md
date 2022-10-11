@@ -1,1 +1,1 @@
-this readme describes the files in this directory
+This directory contains files for the 0x01-shell_permissions project
